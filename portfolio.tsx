@@ -2,11 +2,11 @@ import { useState, useEffect } from 'react'
 import { ChevronLeft, ChevronRight, Mail, Phone, Instagram } from 'lucide-react'
 
 const images = [
-  '/1.jpg',
-  '/2.jpg',
-  '/3.jpg',
-  '/4.jpg',
-  '/5.jpg',
+  '/placeholder.svg?height=600&width=800',
+  '/placeholder.svg?height=600&width=800',
+  '/placeholder.svg?height=600&width=800',
+  '/placeholder.svg?height=600&width=800',
+  '/placeholder.svg?height=600&width=800',
 ]
 
 export default function PhotographerPortfolio() {
